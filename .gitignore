@@ -1,2 +1,32 @@
+<<<<<<< HEAD
 *.pyc
 *.pyo
+=======
+*.py[co]
+
+# Packages
+*.egg
+*.egg-info
+dist
+build
+eggs
+parts
+bin
+var
+sdist
+develop-eggs
+.installed.cfg
+
+# Installer logs
+pip-log.txt
+
+# Unit test / coverage reports
+.coverage
+.tox
+
+#Translations
+*.mo
+
+#Mr Developer
+.mr.developer.cfg
+>>>>>>> d922182915af4fd067b3d4fe524dffc0eb8ce121
