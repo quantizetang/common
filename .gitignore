@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 *.pyc
 *.pyo
 =======
@@ -30,3 +31,7 @@ pip-log.txt
 #Mr Developer
 .mr.developer.cfg
 >>>>>>> d922182915af4fd067b3d4fe524dffc0eb8ce121
+=======
+*.pyc
+*.pyo
+>>>>>>> 45ee39daffcc0e220b3ba26bf32a3b9a90eb66f0
