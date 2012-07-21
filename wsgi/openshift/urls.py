@@ -1,6 +1,6 @@
-urlpatterns = patterns('',
-                       (r'^users/$','first.users.views.index')
-                       )
+#urlpatterns = patterns('',
+#                       (r'^users/$','first.users.views.index')
+#                       )
 
 from django.conf.urls.defaults import patterns, include, url
 
